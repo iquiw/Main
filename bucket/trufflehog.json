@@ -1,12 +1,12 @@
 {
-    "version": "3.83.6",
+    "version": "3.84.0",
     "description": "Find leaked credentials",
     "homepage": "https://github.com/trufflesecurity/trufflehog",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.83.6/trufflehog_3.83.6_windows_amd64.tar.gz",
-            "hash": "13e5f88d56ecd7d35940e5031fee42bb0313866fb3b24ba8047a3c2eeb04bbe9"
+            "url": "https://github.com/trufflesecurity/trufflehog/releases/download/v3.84.0/trufflehog_3.84.0_windows_amd64.tar.gz",
+            "hash": "2bb2c316cb85a7572e54ddefdeb484ee6adcbffa034c57bf5a451bc3d4da42f6"
         }
     },
     "bin": "trufflehog.exe",
